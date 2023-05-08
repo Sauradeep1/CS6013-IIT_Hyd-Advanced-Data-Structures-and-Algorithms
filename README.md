@@ -10,3 +10,5 @@ They include :
 to sort the array m1;m2; . . .  ;mn in a non-decreasing order.
 
 (B) DYNAMIC PROGRAMMING for maximizing the no of points by preparing dishes with minimum time & maximum points
+
+3. Miller Rabin Test for Primality Testing
