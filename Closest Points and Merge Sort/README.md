@@ -35,5 +35,5 @@ Program Related Instructions :
 1. You can write your program in one of C, C++, Java, or Python.
 
 2. The main divide and conquer algorithm described in Section 10.2.2 of DSAAC involves sorting N
-numbers in (N logN) time. You are expected to write the code for a MERGE SORT algorithm
+numbers in Θ(N logN) time. You are expected to write the code for a MERGE SORT algorithm
 from scratch for sorting purposes.
