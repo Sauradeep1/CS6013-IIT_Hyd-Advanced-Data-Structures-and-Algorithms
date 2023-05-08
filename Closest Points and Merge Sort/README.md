@@ -11,12 +11,15 @@ standard output. You may round real numbers to two decimal places.
 Input/Output format explained using an example:
 
 How many points are there on the 2D plane? 3
+
 Enter the coordinates of Point 1
 x1 : 3
 y1 : 2
+
 Enter the coordinates of Point 2
 x2 : 2
 y2 : 0
+
 Enter the coordinates of Point 3
 x3 : 3
 y3 : 3:5
